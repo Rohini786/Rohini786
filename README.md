@@ -50,7 +50,7 @@ Experienced in:
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer Intern – MetLife (Aug 2025 – Nov 2025)
+### 🏢 Full Stack Developer Intern – MetLife (Aug 2025 – Jan 2026)
 
 - Developed and maintained Spring Boot microservices for insurance policy and claims management.
 - Built RESTful APIs improving backend data processing efficiency by 20%.
