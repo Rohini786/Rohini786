@@ -62,7 +62,7 @@ Experienced in:
 
 ### 🏢 Full Stack Developer – Cognizant Technology Solutions  
 **Client: Blue Cross Blue Shield of North Carolina**  
-(Sep 2022 – Apr 2024)
+(July 2021 – Apr 2024)
 
 - Designed and developed scalable Spring Boot microservices automating claims adjudication workflows.
 - Implemented Apache Kafka–based event-driven architecture improving system scalability.
