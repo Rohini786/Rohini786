@@ -73,15 +73,6 @@ Experienced in:
 
 ---
 
-### 🏢 Programmer Analyst Trainee – Cognizant (May 2022 – Aug 2022)
-
-- Developed backend modules using Java Spring Boot and REST APIs.
-- Built React.js UI components improving usability.
-- Performed CRUD operations and optimized JPA queries in SQL Server.
-- Conducted API testing with Postman and supported debugging & defect resolution.
-
----
-
 ### 🏢 Software Developer Intern – Verzeo (May 2020 – Jul 2020)
 
 - Developed Spring Boot REST services for course management workflows.
